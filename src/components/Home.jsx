@@ -12,10 +12,10 @@ const Home = () => {
       <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            Aspiring Full Stack Developer
+            Aspiring Software Developer 
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I'm is proficient in Python, JavaScript, HTML, CSS, and Pygame.
+          I'm proficient in Python, JavaScript, HTML, CSS, and Pygame.
           My projects have real-world applications, such as a chatbot and a sorting algorithm visualization tool.
           I have a diverse range of projects in natural language processing, machine learning, and web development.
           </p>
