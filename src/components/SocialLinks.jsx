@@ -41,7 +41,7 @@ const SocialLinks = () => {
         </>
       ),
       style: "rounded-br-md",
-      href: "/sanjay_resume.pdf",
+      href: "/sanjaykj_resume_4vv20cs130.pdf",
       download: true,
     },
   ];
